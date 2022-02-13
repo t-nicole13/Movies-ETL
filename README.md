@@ -18,7 +18,7 @@ Amazing Prime Video is an online platform for streaming movies and tv shows.
     - Deliverable 4: Create the Movie Database
     
 ## Resources
-- Files: wikipedia-movies.json, movies_metadata.csv (from kaggle.com), ratings.csv (from kaggle.com)
+- Files: wikipedia-movies.json, movies_metadata.csv, ratings.csv (via https://www.kaggle.com/rounakbanik/the-movies-dataset)
 - Software/Dependencies: json 2.0.9, pandas 1.3.5, numpy 1.20.3, jupyter notebook 6.4.6, python 3.7, regex 2.2.1
 
 ## Results
