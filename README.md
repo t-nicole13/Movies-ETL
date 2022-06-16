@@ -1,10 +1,8 @@
 # Movies-ETL
 
-Amazing Prime Video is an online platform for streaming movies and tv shows. 
-
 ## Objective
 
-### Goal:  Build an algorithm to figure out which low budget films will become popular in order to buy streaming rights of these movies at a bargain.
+For this project, I wanted to build an algorithm to figure out which low budget films will become popular.
 
 ### Analysis  1: Extract, Transform, Load (ETL) Method
     - Task 1: Extract data from wikipedia-movies.json (movie list from 1990 - 2018), movies_metadata.csv, and ratings.csv files.
@@ -12,14 +10,24 @@ Amazing Prime Video is an online platform for streaming movies and tv shows.
     - Task 3: Load cleaned dataset into a PostgreSQL table.
     
 ### Analysis 2: Refactor Code From Analysis 1
-    - Deliverable 1: Write an ETL Function to Read Three Data Files
-    - Deliverable 2: Extract and Transform the Wikipedia Data
-    - Deliverable 3: Extract and Transform the Kaggle data
-    - Deliverable 4: Create the Movie Database
+    - Write an ETL Function to Read Three Data Files
+    - Extract and Transform the Wikipedia Data
+    - Extract and Transform the Kaggle data
+    - Create the Movie Database
     
 ## Resources
-- Files: wikipedia-movies.json, movies_metadata.csv, ratings.csv (via https://www.kaggle.com/rounakbanik/the-movies-dataset)
-- Software/Dependencies: json 2.0.9, pandas 1.3.5, numpy 1.20.3, jupyter notebook 6.4.6, python 3.7, regex 2.2.1
+### Files
+    - wikipedia-movies.json 
+    - movies_metadata.csv
+    - ratings.csv (via https://www.kaggle.com/rounakbanik/the-movies-dataset)
+
+### Software/Dependencies: 
+    - json 2.0.9
+    - pandas 1.3.5
+    - numpy 1.20.3
+    - jupyter notebook 6.4.6
+    - python 3.7
+    - regex 2.2.1
 
 ## Results
 
